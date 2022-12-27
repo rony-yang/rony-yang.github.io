@@ -5,7 +5,7 @@
 
 **2. 메인 사진**
 
-추가 예정
+![main](https://user-images.githubusercontent.com/116271236/209596234-a73da1e0-1cc0-4f12-9ce9-173317f8fad5.png)
 
 **3. URL 주소** : https://rony-yang.github.io/index.html
 
@@ -25,9 +25,7 @@
 
 **7. Advanced Feature**
 
-평소에는 화면의 1/3 크기로 출력되고, 중간 사이즈 창에서는 1/2크기, 작은 창에서는 전체 사이즈로 출력되는,
-
-인터넷 창 사이즈에 따라 다르게 출력되는 반응형 웹으로 만들었습니다
+Bootstrap의 Grid system을 사용하여 인터넷 창 사이즈에 따라 다르게 출력되는 반응형 웹을 사용하였습니다.
 
 ```html
 <div class="col-4 col-6-medium col-12-small">
