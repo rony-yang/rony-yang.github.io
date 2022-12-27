@@ -31,9 +31,9 @@
 ```html
 <div class="col-4 col-6-medium col-12-small">
   <section class="box style1">
-	  <img src="icon\AboutIcon1.png" alt="아이콘1" width="100px">
-		  <h3><br>비전공자 이지만,</h3>
-		    <p>개발실력은 물론, <br>기존에 하던 기획과 서류작업, <br>다른 사람들과 소통능력까지 갖춘 <br>다방면 인재입니다.</p>
-	</section>
+    <img src="icon\AboutIcon1.png" alt="아이콘1" width="100px">
+      <h3><br>비전공자 이지만,</h3>
+        <p>개발실력은 물론, <br>기존에 하던 기획과 서류작업, <br>다른 사람들과 소통능력까지 갖춘 <br>다방면 인재입니다.</p>
+  </section>
 </div>
   ```
